@@ -17,6 +17,7 @@ body,
   user-select: none;
   /* overflow: hidden; */
   background: #272727;
+  /*background: linear-gradient(225.32deg,#00c1bf,#53b700);*/
 }
 
 body {
